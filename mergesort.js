@@ -39,6 +39,4 @@ const mergeSort = (array) => {
   return sorted;
 };
 
-console.log(mergeSort([5, 1, 2, 9, 3, 7]));
-
 module.exports = mergeSort;
